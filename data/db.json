@@ -1,0 +1,24 @@
+{
+	"jobs": [
+		{
+			"title": "Streptomycin sulphate",
+			"id": 1,
+			"details": "Streptomycin Sulfate is the sulfate salt form of streptomycin, an aminoglycoside antibiotic derived from Streptomyces griseus with antibacterial property. Streptomycin sulfate binds to the S12 protein of the bacterial 30S ribosomal subunit, thereby inhibiting peptide elongation and protein synthesis, consequently leading to bacterial cell death."
+		},
+		{
+			"title": "Bacillus subtilis",
+			"id": 2,
+			"details": "Due to its clear inherited backgrounds as well as simple and diverse genetic manipulation systems, Bacillus subtilis is the key Gram-positive model bacterium for studies on physiology and metabolism. Furthermore, due to its highly efficient protein secretion system and adaptable metabolism, it has been widely used as a cell factory for microbial production of chemicals, enzymes, and antimicrobial materials for industry, agriculture, and medicine. In this mini-review, we first summarize the basic genetic manipulation tools and expression systems for this bacterium, including traditional methods and novel engineering systems."
+		},
+		{
+			"title": "Enterobacteriaceae",
+			"id": 3,
+			"details": "Streptomycin Sulfate is the sulfate salt form of streptomycin, an aminoglycoside antibiotic derived from Streptomyces griseus with antibacterial property. Streptomycin sulfate binds to the S12 protein of the bacterial 30S ribosomal subunit, thereby inhibiting peptide elongation and protein synthesis, consequently leading to bacterial cell death."
+		},
+		{
+			"title": "Actinomycin D",
+			"id": 4,
+			"details": "Actinomycin D is a well-known antibiotic of the actinomycin group that exhibits high antibacterial and antitumor activity. Actinomycin D has been widely used in clinical practice since 1954 as an anticancer drug for treating many tumors and it is also a useful tool in biochemistry and molecular biology. According to the Internet bibliographic database -- MEDLINE, actinomycins, and mainly actinomycin D, have been the subject of about 3300 science papers so far, and this paper is a review of the information concerning the mechanisms of action of actinomycin D. There are several mechanisms of its action that are responsible for its cytotoxic and antitumor action, these being associated with DNA functionality, leading to RNA and, consequently, protein synthesis inhibition. The two main mechanisms are intercalation to DNA and the stabilization of cleavable complexes of topoisomerases I and II with DNA, in which a phenoxazone ring localizes between GpC base pair sequence in DNA and polypeptide lactones rings occupy a position in the minor groove of the DNA helix or the drug penetrates to a place in the DNA structure where topoisomerase binds with DNA, respectively. Moreover, the slow dissociation of actinomycin D from DNA complexes, its photodynamic activity and free radical formation, as well as other biochemical effects of activity of actinomycin D may be, as suggested, important factors that influence the biological activity of this drug. In the literature not enough convincing evidence has been proposed that could indicate one particular mechanism of action as responsible for the biological activity of actinomycin D."
+		}
+	]
+}
